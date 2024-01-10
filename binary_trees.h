@@ -1,5 +1,5 @@
-#ifndef _BINARY_TREES_H_
-#define _BINARY_TREES_H_
+#ifndef BINARY_TREES_H
+#define BINARY_TREES_H
 
 #include <stdlib.h>
 #include <string.h>
@@ -51,4 +51,4 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 int is_perfect(const binary_tree_t *tree, int height);
 int binary_tree_is_perfect(const binary_tree_t *tree);
 
-#endif /* _BINARY_TREES_H_ */
+#endif
