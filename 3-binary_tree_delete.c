@@ -3,7 +3,6 @@
 /**
 * binary_tree_delete - Deletes a binary tree
 * @tree: tree to delete
-* @value: Value of the node
 * Return: Binary tree with right node inserted
 */
 
